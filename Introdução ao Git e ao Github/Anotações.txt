@@ -1,0 +1,5 @@
+Link para dowload do Git : https://git-scm.com/downloads
+o Git Bash é um  terminal extendido para otimizar o uso do GIT.
+O GitHub é um site com facilidade de apresentação de seus repositórios
+com possibilidade de outros devs conhecer seus projetos
+Link para acesso do GitHub: https://github.com/
